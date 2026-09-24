@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Almasa Security",
+    "slug": "almasa-security",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.almasa.security"
+    },
+    "extra": {
+      "slogan": "أمانك مسؤوليتنا"
+    }
+  }
+}
